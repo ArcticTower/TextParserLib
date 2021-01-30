@@ -9,4 +9,4 @@ Words separated into letters and placed in the nodes elements of a highly branch
 If you want to see an example of usage, refer to the list of LETI courseworks for the first semester of the second course of 2020-2021 y.
 
 ## Documentation (ru)
-Краткая документация доступна в файле [[doc.md]]
+Краткая документация доступна в файле [[./doc.txt]]
